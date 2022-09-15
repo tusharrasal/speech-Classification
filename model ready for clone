@@ -1,0 +1,2 @@
+git lfs install
+git clone https://huggingface.co/ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition
